@@ -1,5 +1,11 @@
 # Robinfood-clone
 This is test and made that to learn how to use React and does't have refactor yet.
+ This is clone of UI and you cannot actually buy stock. But I hope this will be help for making UI for you!!
+
+
+##
+<img width="1420" alt="Screen Shot 2022-02-19 at 0 28 42" src="https://user-images.githubusercontent.com/77915080/154712460-1920d2c3-8a22-43d6-814d-3f2f45846832.png">
+
 
 
 # Getting Started with Create React App
