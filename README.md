@@ -1,5 +1,5 @@
 # Robinfood-clone
-This is test and made that to learn how to use React/Chart.js and does't have refactor yet.
+This is test and made that to learn how to use React/Chart.js/Firebase and does't have refactor yet.
  This is clone of UI and you cannot actually buy stock. But I hope this will be help for making UI for you!!
 
 
